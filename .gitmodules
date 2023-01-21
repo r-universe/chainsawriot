@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "grafzahl"]
+	path = grafzahl
+	url = https://github.com/chainsawriot/grafzahl
+	shallow = true
+	registered = true
 [submodule "ngramrr"]
 	path = ngramrr
 	url = https://github.com/chainsawriot/ngramrr
