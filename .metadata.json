@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "rang",
+    "oncran": true
+  },
+  {
     "package": "sehrnett",
     "oncran": true
   },

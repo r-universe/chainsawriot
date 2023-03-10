@@ -18,6 +18,11 @@
 	url = https://github.com/chainsawriot/oolong
 	shallow = true
 	registered = true
+[submodule "rang"]
+	path = rang
+	url = https://github.com/chainsawriot/rang
+	shallow = true
+	registered = true
 [submodule "sehrnett"]
 	path = sehrnett
 	url = https://github.com/chainsawriot/sehrnett
