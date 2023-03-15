@@ -1,18 +1,6 @@
 [
   {
-    "package": "sehrnett",
-    "oncran": true
-  },
-  {
-    "package": "rang",
-    "oncran": true
-  },
-  {
     "package": "grafzahl",
-    "oncran": true
-  },
-  {
-    "package": "sweater",
     "oncran": true
   },
   {
@@ -21,6 +9,18 @@
   },
   {
     "package": "oolong",
+    "oncran": true
+  },
+  {
+    "package": "rang",
+    "oncran": true
+  },
+  {
+    "package": "sehrnett",
+    "oncran": true
+  },
+  {
+    "package": "sweater",
     "oncran": true
   }
 ]
