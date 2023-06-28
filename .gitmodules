@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "grafzahl"]
 	path = grafzahl
 	url = https://github.com/chainsawriot/grafzahl
-	shallow = true
-	registered = true
 [submodule "ngramrr"]
 	path = ngramrr
 	url = https://github.com/chainsawriot/ngramrr
-	shallow = true
-	registered = true
 [submodule "oolong"]
 	path = oolong
 	url = https://github.com/chainsawriot/oolong
-	shallow = true
-	registered = true
 [submodule "rang"]
 	path = rang
 	url = https://github.com/chainsawriot/rang
-	shallow = true
-	registered = true
 [submodule "sehrnett"]
 	path = sehrnett
 	url = https://github.com/chainsawriot/sehrnett
-	shallow = true
-	registered = true
 [submodule "sweater"]
 	path = sweater
 	url = https://github.com/chainsawriot/sweater
-	shallow = true
-	registered = true
