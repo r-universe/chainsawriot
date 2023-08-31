@@ -11,9 +11,6 @@
 [submodule "oolong"]
 	path = oolong
 	url = https://github.com/chainsawriot/oolong
-[submodule "rang"]
-	path = rang
-	url = https://github.com/chainsawriot/rang
 [submodule "rio"]
 	path = rio
 	url = https://github.com/chainsawriot/rio
