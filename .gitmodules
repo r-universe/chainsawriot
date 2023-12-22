@@ -8,9 +8,6 @@
 [submodule "ngramrr"]
 	path = ngramrr
 	url = https://github.com/chainsawriot/ngramrr
-[submodule "oolong"]
-	path = oolong
-	url = https://github.com/chainsawriot/oolong
 [submodule "sehrnett"]
 	path = sehrnett
 	url = https://github.com/chainsawriot/sehrnett
